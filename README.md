@@ -9,7 +9,7 @@ Fuzzy Logic Controller implementation for the Ball and Beam System – 49275 Neu
 <!-- Add more information as we learn and develop -->
 
 
-## Contributors: Group 50
+## Contributors: Group 16.1
 13899947 - Sebastiano Guarna - Sebastiano.Guarna@student.uts.edu.au
 
 26222810 - Thomas Hoang - tung.hoang@student.uts.edu.au 
