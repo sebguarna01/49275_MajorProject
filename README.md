@@ -2,17 +2,6 @@
 This repository contains our project for 49275 Neural Networks and Fuzzy Logic at the University of Technology Sydney.
 
 ## Project Overview
-The Ball and Beam System is a classic nonlinear and inherently unstable control problem. The objective is to control the position of a ball rolling along a beam by adjusting the beam’s angle.
-Fuzzy Logic Controller implementation for the Ball and Beam System – 49275 Neural Networks and Fuzzy Logic, University of Technology Sydney.
-
-# Fuzzy Logic Control of a Ball-and-Beam System  
-### Experimental Evaluation with PID Benchmarking
-
-This repository contains our project for **49275 Neural Networks and Fuzzy Logic** at the **University of Technology Sydney (UTS)**.
-
----
-
-## Project Overview
 
 The **ball-and-beam system** is a classic nonlinear and inherently unstable control problem. The objective is to control the position of a ball rolling along a beam by adjusting the beam’s angle.
 
