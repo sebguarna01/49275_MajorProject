@@ -37,9 +37,9 @@ The aim of this project is to:
 
 ---
 
-## 🗓️ Project Timeline (Summary)
+## Project Timeline
 
-The project was structured into six key phases:
+The project has been structured into six key phases:
 
 - **Planning & Research**  
   Literature review, defining objectives, and establishing project scope and timeline.
@@ -61,7 +61,7 @@ The project was structured into six key phases:
 
 ---
 
-## 📊 Results 
+## Results 
 ### *(To Be Added)*
 
 - Performance comparison of PID vs fuzzy logic controllers  
